@@ -1,0 +1,13 @@
+{
+  "required": true,
+  "package": "com.camcamcamcamcam.renewable_sand.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "refmap": "renewable_sand.refmap.json",
+  "mixins": [
+    "BlockBehaviourMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
